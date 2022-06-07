@@ -1,0 +1,6 @@
+@import "./infoPage.css";
+@import "./header.css";
+@import "./share.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
